@@ -4,7 +4,8 @@ Project Overview
 This project aims to analyze key factors influencing employee attrition using Power BI. The dashboard provides data-driven insights into why employees leave a company, helping HR teams make informed decisions to improve employee retention.
 
 Key Insights & Analysis
-✔ Attrition Rate Analysis – Identifies the percentage of employees leaving the company.
+
+✔ Attrition Rate Analysis – Identifies the percentage of employees leaving the company
 ✔ Department-Wise Turnover – Analyzes which departments have the highest attrition rates.
 ✔ Salary & Compensation Trends – Examines the impact of salary on employee retention.
 ✔ Job Roles & Work Experience – Determines whether tenure or job roles affect attrition.
