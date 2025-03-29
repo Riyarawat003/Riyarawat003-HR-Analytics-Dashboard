@@ -23,7 +23,7 @@ Tools & Technologies Used
 
 Dashboard Preview
 Here’s a glimpse of the HR Analytics Dashboard:  
-![Uploading Hr Analytics Screenshot.png…]()
+](https://github.com/Riyarawat003/Riyarawat003-HR-Analytics-Dashboard/blob/main/Hr%20Analytics%20Screenshot.png)
 
 Data Source and Inspiration
 This project is based on a tutorial from the Rishabh Mishra YouTube channel.
